@@ -32,7 +32,7 @@
 
 ## SOLVED
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pjh0628})](https://solved.ac/{pjh0628})
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={pjh0628})](https://solved.ac/{pjh0628})
 
 <!--
 **mouse1111/mouse1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
