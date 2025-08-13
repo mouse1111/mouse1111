@@ -31,8 +31,7 @@
 </div>
 
 ## SOLVED
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={pjh0628})](https://solved.ac/{pjh0628})
+[![Solved.ac Profile](https://img.shields.io/badge/Solved.ac-{pjh0628}-blue?style=for-the-badge&logo=solved.ac&logoColor=white)](https://solved.ac/profile/{pjh0628})
 
 <!--
 **mouse1111/mouse1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
