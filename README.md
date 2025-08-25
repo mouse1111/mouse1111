@@ -29,6 +29,8 @@
         <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
         mybatis
         notion
+        vscode
+        intellij
         </div><br>
 </div>
 
