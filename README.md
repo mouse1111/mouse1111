@@ -28,7 +28,8 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
         <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
         mybatis
-</div><br>
+        notion
+        </div><br>
 </div>
 
 <!--
