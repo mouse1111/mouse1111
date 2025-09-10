@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0522ff&height=180&text=도전하는%20개발자%20박주희입니다🚀&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0522ff&height=180&text=도전하는%20개발자%20"박주희"입니다🚀&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> # 문제 해결 + 도전 정신 = 신입 개발자의 무기 🛠️ </h2>  
