@@ -21,7 +21,7 @@
           <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
           <br/>
-          <img src="https://img.shields.io/badge/JSON-#FF5C83?style=for-the-badge&logo=JSON&logoColor=white">
+          <img src="https://img.shields.io/badge/JSON-FF5C83?style=for-the-badge&logo=JSON&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
